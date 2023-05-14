@@ -1,0 +1,14 @@
+.mystyle {
+    background-color: #cdc0b0;
+    color: Red;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.parastyle{
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
